@@ -1,3 +1,6 @@
 20192837 허민
 
 20192883 홍길동
+
+깃허브에서 고친 내용!
+This is written in Github
