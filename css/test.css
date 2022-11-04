@@ -1,0 +1,41 @@
+*{
+	text-decoration: none;
+}
+header div{
+	text-align: right;
+}
+nav ul{
+	background : skyblue;
+	height: 60px;
+}
+
+nav ul a{
+		font-weight: bold;
+		color: black;
+		text-decoration-line: none;
+}
+nav div{
+	text-align: right;
+	
+}
+button{
+	width: 90px;
+	height: 30px;
+}
+section table {
+	margin-right:10px;
+	text-align : left;
+    bgcolor : "whitesmoke" height : "7px" width : "5px";
+}
+.heo1{
+	width: 750px;
+}
+.newbook{
+	width: 750px;
+	height: 60px;
+
+}
+.order{
+	float: right;
+	text-align: center;
+}
